@@ -49,3 +49,6 @@ function chunkArray(arr, size) {
 	// Output the result
 	console.log("expectedHash:", hashValue.toString());
 })();
+
+// Example usage:
+// node .\calculate_hash.js .\input.json
